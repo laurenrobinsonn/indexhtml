@@ -474,6 +474,7 @@ h6,
 }
 #msg-box5-2 H3 {
   color: #ffffff;
+  font-size: 48px;
 }
 #features4-4 .card-subtitle {
   color: #bcbcbc;
@@ -673,7 +674,13 @@ h6,
   color: #c0a375!important;
 }
 #form1-l .form-control-label {
-  color: #232323;
+  color: #ffffff;
+}
+#form1-l .mbr-section-title {
+  color: #f200ff;
+}
+#form1-l SMALL {
+  color: #ffffff;
 }
 #ext_menu-m .hide-buttons .nav-btn {
   display: none !important;
